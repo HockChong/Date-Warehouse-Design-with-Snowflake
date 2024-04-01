@@ -11,3 +11,9 @@ Navigate to the Yelp Dataset [https://www.yelp.com/dataset/download] (opens in a
 On this page download 2 files “Download JSON” and “COVID-19 Data”
 
 Note: The COVID-19 Data is currently not available for download on Yelp dataset page. You can download the COVID-19 dataset from this [https://www.kaggle.com/datasets/claudiadodge/yelp-academic-data-set-covid-features].
+
+If you get an error code, go back to the page where you entered your details, click on download again try again
+
+Note: Use single word filenames when you save. This will make it easier when loading into the database in later steps.
+
+These are compressed files that will need to be uncompressed with the tool of your choice
